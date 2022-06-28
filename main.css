@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  font-size:1vw;
+  min-height:40vh;
+  margin:0;
+}
+
+h1 {
+  margin:0;
+  padding: 3vw 0 1vw 0;
+}
+table {
+  border-collapse: collapse;
+  margin:0 auto;
+}
+table,tr,td,th {
+  border:1px solid #aaa;
+  padding:1vw 1vw;
+  text-align: center;
+}
+
+a {
+  font-size:1vw;
+}  
